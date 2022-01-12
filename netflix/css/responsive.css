@@ -1,0 +1,19 @@
+@media screen and (max-width:710px){
+  header .container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .botao{
+    margin-bottom: 10px;
+    width: 190px;
+    height: 60px;
+    border-radius: 5px;
+  }
+  .filme-principal{
+    height: 600px;
+  }
+  .filme-principal .container{
+    width: 80%;
+  }
+}
